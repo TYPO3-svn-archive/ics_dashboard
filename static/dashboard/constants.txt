@@ -1,0 +1,8 @@
+config.tx_icsdashboard_pi1 {
+	templatePath = EXT:ics_dashboard/res/
+	# cat=plugin.tx_icsdashboard_pi1/other/b; type=string; label=Default template: The default template file to use.
+	defaultTemplate = template_dashboard.html
+	# cat=plugin.tx_icsdashboard_pi1/file/a; type=file[html]; label=Template to use: The template file to use.
+	template = 
+}
+config.tx_icsdashboard_pi2 < config.tx_icsdashboard_pi1 

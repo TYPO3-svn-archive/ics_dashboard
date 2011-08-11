@@ -1,0 +1,10 @@
+plugin.tx_icsdashboard_pi1{
+	templatePath = {$config.tx_icsdashboard_pi1.templatePath}
+	defaultTemplate = {$config.tx_icsdashboard_pi1.defaultTemplate}
+	template = {$config.tx_icsdashboard_pi1.template}
+}
+plugin.tx_icsdashboard_pi2{
+	templatePath = {$config.tx_icsdashboard_pi2.templatePath}
+	defaultTemplate = {$config.tx_icsdashboard_pi2.defaultTemplate}
+	template = {$config.tx_icsdashboard_pi2.template}
+}

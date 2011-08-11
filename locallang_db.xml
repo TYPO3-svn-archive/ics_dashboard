@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'ics_dashboard'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_icsdashboard_modules">Dashboard Widgets</label>
+			<label index="tx_icsdashboard_modules.name">name</label>
+			<label index="tx_icsdashboard_modules.description">Description</label>
+			<label index="tx_icsdashboard_modules.content">content</label>
+			<label index="tx_icsdashboard_modules.content_config">configuration content</label>
+			<label index="tx_icsdashboard_modules.content_add">Additional content</label>
+			<label index="tx_icsdashboard_modules.multi">allow multiple insert</label>
+			<label index="tx_icsdashboard_register">Dashboard Widget subscription</label>
+			<label index="tx_icsdashboard_register.fe_user">FE User</label>
+			<label index="tx_icsdashboard_register.module_uid">widget uid</label>
+			<label index="tx_icsdashboard_register.title">Title</label>
+			<label index="tx_icsdashboard_register.position">position</label>
+			<label index="tx_icsdashboard_register.id_dashboard">Dashboard id</label>
+			<label index="tt_content.list_type_pi1">Dashboard</label>
+			<label index="tx_icsdashboard_pi1.flexform.configuration">Setup</label>
+			<label index="tx_icsdashboard_pi1.flexform.modules">Widgets</label>
+			<label index="tx_icsdashboard_pi1.flexform.template">Template</label>
+			<label index="tx_icsdashboard_pi1.flexform.nbmaxmodules">Max Widgets number</label>
+			<label index="tx_icsdashboard_pi1.flexform.edit_page">Widgets Edition page</label>
+			<label index="tx_icsdashboard_pi1.flexform.ddsort">Sort width Drag and Drop</label>
+			<label index="tx_icsdashboard_pi1.flexform.edit">Edit</label>
+			<label index="tx_icsdashboard_pi1.flexform.pid">Storage page</label>
+			<label index="tx_icsdashboard_pi1.flexform.suppr">Allow deletion</label>
+			<label index="tx_icsdashboard_pi1.flexform.add">Add</label>
+			<label index="tx_icsdashboard_pi1.flexform.reset">Reset</label>
+			<label index="tt_content.list_type_pi2">Dashboard configuration</label>
+			<label index="tx_icsdashboard_pi2.flexform.configuration">Setup</label>
+			<label index="tx_icsdashboard_pi2.flexform.modules">Widgets</label>
+			<label index="tx_icsdashboard_pi2.flexform.dispo_modules">Available widgets</label>
+			<label index="tx_icsdashboard_pi2.flexform.template">Template</label>
+			<label index="tx_icsdashboard_pi2.flexform.dispo_modules">Available widgets</label>
+			<label index="tx_icsdashboard_pi2.flexform.editafteradd">Edit module after add</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="tx_icsdashboard_modules">Modules du bureau Virtuel</label>
+			<label index="tx_icsdashboard_modules.name">Nom</label>
+			<label index="tx_icsdashboard_modules.description">Description</label>
+			<label index="tx_icsdashboard_modules.content">contenu</label>
+			<label index="tx_icsdashboard_modules.content_config">contenu de configuration</label>
+			<label index="tx_icsdashboard_modules.content_add">Contenu annexe</label>
+			<label index="tx_icsdashboard_register">Modules du bureau Virtuel - inscription</label>
+			<label index="tx_icsdashboard_register.fe_user">Utilisateur FE</label>
+			<label index="tx_icsdashboard_register.module_uid">uid du module</label>
+			<label index="tx_icsdashboard_register.title">titre personnalisé</label>
+			<label index="tx_icsdashboard_register.position">position</label>
+			<label index="tx_icsdashboard_register.id_dashboard">Identifiant du bureau</label>
+			<label index="tt_content.list_type_pi1">bureau Virtuel</label>
+			<label index="tx_icsdashboard_pi1.flexform.configuration">Configuration</label>
+			<label index="tx_icsdashboard_pi1.flexform.modules">Modules</label>
+			<label index="tx_icsdashboard_pi1.flexform.template">Template</label>
+			<label index="tx_icsdashboard_pi1.flexform.nbmaxmodules">Nombre maximum de modules</label>
+			<label index="tx_icsdashboard_pi1.flexform.edit_page">Page d'édition des modules</label>
+			<label index="tx_icsdashboard_pi1.flexform.ddsort">Ordonner (Drag and Drop)</label>
+			<label index="tx_icsdashboard_pi1.flexform.edit">Configurer</label>
+			<label index="tx_icsdashboard_pi1.flexform.suppr">Supprimer</label>
+			<label index="tx_icsdashboard_pi1.flexform.add">Ajouter</label>
+			<label index="tx_icsdashboard_pi1.flexform.reset">Réinitialiser</label>
+			<label index="tx_icsdashboard_pi1.flexform.pid">Page de stockage</label>
+			<label index="tt_content.list_type_pi2">bureau Virtuel configuration</label>
+			<label index="tx_icsdashboard_pi2.flexform.configuration">Configuration</label>
+			<label index="tx_icsdashboard_pi2.flexform.modules">Modules</label>
+			<label index="tx_icsdashboard_pi2.flexform.dispo_modules">Modules disponibles</label>
+			<label index="tx_icsdashboard_pi2.flexform.template">Template</label>
+			<label index="tx_icsdashboard_pi2.flexform.dispo_modules">Modules disponibles</label>
+			<label index="tx_icsdashboard_pi2.flexform.editafteradd">Configurer le module après l'ajout</label>
+			<label index="tx_icsdashboard_modules.multi">Insertions multiples</label>
+		</languageKey>
+	</data>
+</T3locallang>

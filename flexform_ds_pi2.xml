@@ -1,0 +1,42 @@
+<T3DataStructure>
+ <meta>
+       <langDisable>1</langDisable>
+ </meta>
+ <sheets>
+ 	
+  <sDEF1>
+   <ROOT>
+    <TCEforms>
+     <sheetTitle>LLL:EXT:ics_dashboard/locallang_db.xml:tx_icsdashboard_pi2.flexform.configuration</sheetTitle>
+    </TCEforms>
+    <type>array</type>
+     <el>
+	  <dispo_modules>
+       <TCEforms>
+        <exclude>1</exclude>
+        <label>LLL:EXT:ics_dashboard/locallang_db.xml:tx_icsdashboard_pi2.flexform.dispo_modules</label>
+        <config>
+         <type>group</type>
+         <internal_type>db</internal_type>
+         <allowed>tx_icsdashboard_modules</allowed>
+         <size>15</size>
+         <maxitems>100</maxitems>
+         <minitems>0</minitems>
+         <show_thumbs>1</show_thumbs>
+        </config>
+       </TCEforms>
+      </dispo_modules>
+	  <editafteradd>
+		<TCEforms>
+			<config>
+				<type>check</type>
+				<default>1</default>
+			</config>
+			<label>LLL:EXT:ics_dashboard/locallang_db.xml:tx_icsdashboard_pi2.flexform.editafteradd</label>
+		</TCEforms>
+	   </editafteradd>
+     </el>
+    </ROOT>
+   </sDEF1>
+  </sheets>
+</T3DataStructure>
